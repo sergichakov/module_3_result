@@ -6,6 +6,9 @@ target/
 docker.yaml
 *r.yaml
 *cov.yaml 
+.github/workflows/codecov.yaml
+codecov.yaml
+*.yaml
 
 ### IntelliJ IDEA ###
 .idea/
