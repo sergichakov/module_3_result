@@ -5,7 +5,7 @@ target/
 .github/workflows/docker.yaml
 docker.yaml
 *r.yaml
-*cov.yaml
+*cov.yaml 
 
 ### IntelliJ IDEA ###
 .idea/
